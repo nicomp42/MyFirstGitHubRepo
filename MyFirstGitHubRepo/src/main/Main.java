@@ -1,3 +1,4 @@
+
 package main;
 
 public class Main {
@@ -10,3 +11,14 @@ public class Main {
 		System.out.println("Alex Moore ");
 	}
 }
+
+package main;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+
+	}
+}
+
