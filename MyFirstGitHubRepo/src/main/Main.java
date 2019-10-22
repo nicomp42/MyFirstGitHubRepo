@@ -6,5 +6,7 @@ public class Main {
 
 
 	}
-
+	public static void gougham() {
+		System.out.println("Alexandria Gough");
+	}
 }
