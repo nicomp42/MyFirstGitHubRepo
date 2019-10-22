@@ -6,5 +6,7 @@ public class Main {
 
 
 	}
-
+	public static void hollindv() {
+		System.out.println("Trey Hollins");
+	}
 }
