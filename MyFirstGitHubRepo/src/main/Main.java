@@ -6,5 +6,7 @@ public class Main {
 
 
 	}
-
+	public static void moore5ar() {
+		System.out.println("Alex Moore ");
+	}
 }
