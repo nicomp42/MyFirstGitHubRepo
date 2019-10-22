@@ -6,5 +6,7 @@ public class Main {
 
 
 	}
-
+	public static void mislehna() {
+		System.out.println("Nicholas Misleh");
+	}
 }
