@@ -6,5 +6,8 @@ public class Main {
 
 
 	}
+	public static void knuthmn() {
+		System.out.println("Meghan Knuth");
+	}
 
 }
