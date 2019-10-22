@@ -6,5 +6,8 @@ public class Main {
 
 
 	}
-
+	public static void long3md() {
+		System.out.println("Mark Long");
+		
+	}
 }
