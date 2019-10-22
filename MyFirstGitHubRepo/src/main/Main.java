@@ -6,5 +6,8 @@ public class Main {
 
 
 	}
-
+	
+	public static void meyer3cn() {
+	System.out.println("Jahnae Meyer");
+	}
 }
