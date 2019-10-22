@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("Blake Barr");
 //		Hello
 	}
+	public static void foo() {}
 	public static void nicholdw() {
 		System.out.println("Bill Nicholson");
 
